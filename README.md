@@ -16,10 +16,10 @@ Throughout the project, the skills applied include data cleaning, working with C
 
 ## Links:
 ### Online Retail Dataset
-[Dataset: Online Retail Data](https://github.com/FranciscoLoncq/RFM-Analysis-Sales-Data-SQL-Tableau/blob/main/sales_data_sample.csv)
+[Dataset: Online Retail Data](https://github.com/FranciscoLoncq/Online-Retail-Cohort-Analysis-SQL-Tableau/blob/main/online%2Bretail%20(2).zip)
 
 ### Cohort Analysis SQL Query
-[SQL Analysis Query](https://github.com/FranciscoLoncq/RFM-Analysis-Sales-Data-SQL-Tableau/blob/main/SalesData%20Query.sql)
+[SQL Analysis Query](https://github.com/FranciscoLoncq/Online-Retail-Cohort-Analysis-SQL-Tableau/blob/main/Online%20Retail%20Queries.sql)
 
 ### Tableau
 [Cohort Analysis Dashboard](https://public.tableau.com/app/profile/francisco.loncq/viz/OnlineRetailCohortDashboard/CohortRetentionTables)
